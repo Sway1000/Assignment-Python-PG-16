@@ -29,6 +29,4 @@ def returnDateTime(startDateTime=str(datetime.now()), stopDateTime=str(datetime.
         stopDatetime.append(int(round(float(stop_datetime[i]))))
 
 
-Done with the code
-
     
